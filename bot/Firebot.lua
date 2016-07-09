@@ -303,7 +303,7 @@ function create_config( )
    "type"
 
     },
-    sudo_users = {121952579},--Sudo users
+    sudo_users = {208094932},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
